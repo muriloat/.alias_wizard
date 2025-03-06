@@ -1,0 +1,8 @@
+~/.alias_wizard/
+├── loader.sh
+├── handler.sh
+├── modules/
+│   ├── ipt.module
+│   └── ovpn.module
+└── enabled_modules/
+    └── (symlinks to active modules)
